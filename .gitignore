@@ -1,0 +1,9 @@
+Cliente/gen-py
+Cliente/gen-py/
+Servidor/
+Servidor
+servidorNode/gen-nodejs
+servidorNode/gen-nodejs/
+servidorNode/node_modules
+servidorNode/node_modules/
+*.exe
